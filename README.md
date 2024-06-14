@@ -96,3 +96,5 @@ json
 
 ### Swagger
 Acesse: http://localhost:8080/swagger-ui/index.html
+![image](https://github.com/tamaracosta/to-do-list/assets/75817559/ae430141-ec10-4bc5-bc86-00ada85e214d)
+
