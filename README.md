@@ -93,3 +93,6 @@ json
 
 ![image](https://github.com/tamaracosta/to-do-list/assets/75817559/0d9f914e-9f1e-4dbe-9674-fb6e3b1c22b8)
 
+
+### Swagger
+Acesse: http://localhost:8080/swagger-ui/index.html
