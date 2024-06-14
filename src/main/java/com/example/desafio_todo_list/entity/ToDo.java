@@ -20,7 +20,9 @@ public class ToDo {
   private boolean realizado;
   private int prioridade;
 
-  
+  // Construtor padrão
+  public ToDo() {
+  }
 
   public ToDo(String nome, String descricao, boolean realizado, int prioridade) {
     this.nome = nome;
