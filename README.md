@@ -30,7 +30,7 @@ API para gerenciar tarefas (to-do list) (CRUD) usando JAVA e SPRING.
 ## Como Executar
 1. Clonar repositório git:
    ```sh
-   $ git clone <URL-do-repositorio>
+   $ git clone https://github.com/tamaracosta/to-do-list.git
 
 2. Construir o projeto:
 $ ./mvnw clean package
